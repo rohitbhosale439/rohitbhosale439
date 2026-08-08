@@ -24,15 +24,6 @@ DevOps Engineer with **4+ years of experience** running production infrastructur
 - 🏗️ **Infrastructure as Code** with Terraform across OCI & AWS — environments as pipeline runs, not manual work
 - 🌙 **On-call & incident response** — isolate, fix, communicate, post-mortem
 
-## 🔭 Currently Working On
-
-- 🛰️ **FortiGate log streaming automation** — real-time firewall log ingestion pipeline with OCI Object Storage archiving
-- 🔄 **Kafka Connect + Debezium CDC stack** — change-data-capture pipelines running on Podman
-- 🧪 **Playwright BDD E2E framework** — behaviour-driven test automation for fintech transaction flows
-- 📜 **AWS Solutions Architect certification** — expanding multi-cloud expertise
-
----
-
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud Platforms
