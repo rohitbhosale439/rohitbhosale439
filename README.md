@@ -24,6 +24,13 @@ DevOps Engineer with **4+ years of experience** running production infrastructur
 - 🏗️ **Infrastructure as Code** with Terraform across OCI & AWS — environments as pipeline runs, not manual work
 - 🌙 **On-call & incident response** — isolate, fix, communicate, post-mortem
 
+## 🔭 Currently Working On
+
+- 🛰️ **FortiGate log streaming automation** — real-time firewall log ingestion pipeline with OCI Object Storage archiving
+- 🔄 **Kafka Connect + Debezium CDC stack** — change-data-capture pipelines running on Podman
+- 🧪 **Playwright BDD E2E framework** — behaviour-driven test automation for fintech transaction flows
+- 📜 **AWS Solutions Architect certification** — expanding multi-cloud expertise
+
 ---
 
 ## 🛠️ Tech Stack
@@ -100,11 +107,28 @@ DevOps Engineer with **4+ years of experience** running production infrastructur
 
 ---
 
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| AWS Cloud Essentials | Amazon Web Services | ⏳ In Progress |
+| AWS Solutions Architect | Amazon Web Services | ⏳ In Progress |
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitbhosale439&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhosale439&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohitbhosale439&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitbhosale439&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -113,6 +137,6 @@ DevOps Engineer with **4+ years of experience** running production infrastructur
 
 - 💼 **LinkedIn:** [linkedin.com/in/rohit-bhosale-23may1997](https://linkedin.com/in/rohit-bhosale-23may1997)
 - 📧 **Email:** rohitbhosaleofficial@gmail.com
-- ✈️ **Availability:** Immediate · Open to Domestic & international roles · Visa sponsorship welcome
+- ✈️ **Availability:** Immediate · Open to international roles · Visa sponsorship welcome
 
 <p align="center"><i>⚡ "If I find myself doing the same manual task more than twice, I write a script for it."</i></p>
