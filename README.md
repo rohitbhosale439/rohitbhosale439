@@ -113,6 +113,6 @@ DevOps Engineer with **4+ years of experience** running production infrastructur
 
 - 💼 **LinkedIn:** [linkedin.com/in/rohit-bhosale-23may1997](https://linkedin.com/in/rohit-bhosale-23may1997)
 - 📧 **Email:** rohitbhosaleofficial@gmail.com
-- ✈️ **Availability:** Immediate · Open to international roles · Visa sponsorship welcome
+- ✈️ **Availability:** Immediate · Open to Domestic & international roles · Visa sponsorship welcome
 
 <p align="center"><i>⚡ "If I find myself doing the same manual task more than twice, I write a script for it."</i></p>
